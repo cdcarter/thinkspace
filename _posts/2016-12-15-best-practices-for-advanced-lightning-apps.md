@@ -10,6 +10,7 @@ keywords: "salesforce"
 The webinar [was recorded](https://www.youtube.com/watch?v=9G3TyoB0_vQ&feature=youtu.be) and I watched that recording over lunch.
 
 Some things that stood out:
+
 * Lightning Data Service won't count toward SOQL Limits!
 * You can use the utility bar to cache data.
 * setBackground() on actions is worth evaluating. Start with it on.
@@ -18,6 +19,7 @@ Some things that stood out:
 * Build an extensible component with a helper action for your callServer action. Uh...duh...why didn't I do that before?
 
 I liked how they split the components into categories:
+
 * service components
 * helper components
 * building block (UI) components
