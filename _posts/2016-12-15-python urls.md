@@ -1,0 +1,9 @@
+https://soundcloud.com/import-this
+http://docs.python-guide.org/en/latest/writing/style/
+http://www.effectivepython.com/
+http://www.apress.com/us/book/9781484203354
+http://www.apress.com/us/book/9781484202180
+https://pymotw.com/2/about.html
+http://jessenoller.com/good-to-great-python-reads/
+https://exploreflask.com/en/latest/templates.html
+https://github.com/cdcarter/thinkspace/new/gh-pages/_posts
