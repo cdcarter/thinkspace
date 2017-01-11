@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "One =-Click Actions in Lightning"
+title: "One-Click Actions in Lightning"
 description: ""
 keywords: "salesforce"
 ---
